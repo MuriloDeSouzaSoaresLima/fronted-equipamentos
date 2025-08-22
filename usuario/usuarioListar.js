@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://emp-equip-didaticos-1.onrender.com";
 
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector("#usuariosTable tbody");
